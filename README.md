@@ -25,23 +25,23 @@ The dataset used in this project is sourced from [Kaggle's IMDB Movie Data](http
 - pandas
 - matplotlib
 - seaborn
-
+<br><br>
 <div style="text-align: center;">
   <img src="https://github.com/Gimhana123/IMDB-Movie-Data-Analysis-Project/blob/main/Screenshot%20(1077).png?raw=true">
-</div>
+</div><br><br>
 <div style="text-align: center;">
   <img src="https://github.com/Gimhana123/IMDB-Movie-Data-Analysis-Project/blob/main/Screenshot%20(1080).png?raw=true">
-</div>
+</div><br><br>
 <div style="text-align: center;">
   <img src="https://github.com/Gimhana123/IMDB-Movie-Data-Analysis-Project/blob/main/Screenshot%20(1082).png?raw=true">
-</div>
+</div><br><br>
 <div style="text-align: center;">
   <img src="https://github.com/Gimhana123/IMDB-Movie-Data-Analysis-Project/blob/main/Screenshot%20(1083).png?raw=true">
-</div>
+</div><br><br>
 <div style="text-align: center;">
   <img src="https://github.com/Gimhana123/IMDB-Movie-Data-Analysis-Project/blob/main/Screenshot%20(1085).png?raw=true">
-</div>
+</div><br><br>
 <div style="text-align: center;">
   <img src="https://github.com/Gimhana123/IMDB-Movie-Data-Analysis-Project/blob/main/Screenshot%20(1086).png?raw=true">
-</div>
+</div><br><br>
 
